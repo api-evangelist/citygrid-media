@@ -1,0 +1,68 @@
+{
+    "name": "CityGrid Media",
+    "description": "Leading Local Online Media Company",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/997-citygrid-media.jpg",
+    "tags": [
+        "api provider",
+        "business",
+        "have api",
+        "local",
+        "places",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/citygrid-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CityGrid Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/997-citygrid-media.jpg",
+            "humanURL": "http:\/\/docs.citygridmedia.com\/display\/citygridv2\/CityGrid+APIs",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/citygrid-media-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/citygrid-media-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.citygrid.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/citygrid-media"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/citygrid-media"
+        },
+        {
+            "type": "Email",
+            "url": "legal@citygridmedia.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/CityGrid"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/citygridmedia"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/docs.citygridmedia.com\/display\/citygridv2\/CityGrid+APIs"
+        }
+    ]
+}
